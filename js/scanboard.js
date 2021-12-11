@@ -196,7 +196,10 @@ $(function(){
 	$('#FontScroll').FontScroll({time: 3000,num: 1});
 	
 	//产废排名统计信息滚动
-	$('#hwPwRankInfo').FontScroll({time: 1000,num: 1});
+	$('#PWHWRankScroll').FontScroll({time: 2000,num: 1});
+
+	//区域产废排名统计信息滚动
+	$('#PWHWZoneRankScroll').FontScroll({time: 2000,num: 1});
 
 	setTimeout(function(){
 		

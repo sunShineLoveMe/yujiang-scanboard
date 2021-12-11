@@ -120,8 +120,8 @@ body{
 #top .topLogo span {
 	color: #00deff;
     font-weight: 600;
-    font-size: 18px;
-    line-height: 56px;
+    font-size: 24px;
+    line-height: 60px;
 }
 
 #top .topBar{
@@ -392,6 +392,37 @@ body{
 	overflow: hidden;
 }
 
+#PWHWRankScroll {
+	height: 228px;
+	overflow: hidden;
+}
+
+#PWHWRankScroll .rank-entity-name {
+	display: inline-block; 
+	width: 65%;
+}
+
+#PWHWRankScroll .rank-entity-value {
+	display: inline-block; 
+	width: 35%;
+	text-align: center;
+}
+
+#PWHWZoneRankScroll {
+	height: 228px;
+	overflow: hidden;
+}
+
+#PWHWZoneRankScroll .rank-entity-name {
+	display: inline-block; 
+	width: 65%;
+}
+
+#PWHWZoneRankScroll .rank-entity-value {
+	display: inline-block; 
+	width: 35%;
+	text-align: center;
+}
 
 .filterbg{
 	width: 100%;
@@ -602,6 +633,37 @@ body{
 		height: 228px;
 	}
 
+	#PWHWRankScroll {
+		height: 228px;
+	}
+
+	#PWHWRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
+
+	#PWHWZoneRankScroll {
+		height: 228px;
+		overflow: hidden;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
+
 
 	.popup .popupClose{
 		width: 40px;
@@ -739,6 +801,36 @@ body{
 		height: 190px;
 	}
 
+	#PWHWRankScroll {
+		height: 190px;
+	}
+
+	#PWHWRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
+
+	#PWHWZoneRankScroll {
+		height: 190px;
+		overflow: hidden;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
 
 	.popup .popupClose{
 		width: 36px;
@@ -881,6 +973,36 @@ body{
 		height: 128px;
 	}
 
+	#PWHWRankScroll {
+		height: 128px;
+	}
+
+	#PWHWRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
+
+	#PWHWZoneRankScroll {
+		height: 128px;
+		overflow: hidden;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
 
 	.popup .popupClose{
 		width: 32px;
@@ -1032,6 +1154,36 @@ body{
 		height: 128px;
 	}
 
+	#PWHWRankScroll{
+		height: 128px;
+	}
+
+	#PWHWRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
+
+	#PWHWZoneRankScroll {
+		height: 128px;
+		overflow: hidden;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-name {
+		display: inline-block; 
+		width: 65%;
+	}
+
+	#PWHWZoneRankScroll .rank-entity-value {
+		display: inline-block; 
+		width: 35%;
+		text-align: center;
+	}
 
 	.popup .popupClose{
 		width: 32px;
